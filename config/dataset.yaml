@@ -1,0 +1,10 @@
+# train, val, test  data as：
+# directory: path/images/
+train: E:\800-other\data\train
+val: E:\800-other\data\val
+test: E:\800-other\data\test
+
+# number of classes
+nc: 7
+# class names
+names: [ 'O', 'B', 'A','F', 'G','K','M' ]
