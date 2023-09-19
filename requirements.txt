@@ -1,0 +1,12 @@
+torch~=1.13.1+cu116
+opencv-python~=4.6.0.66
+pillow~=9.4.0
+astropy~=5.2.1
+matplotlib~=3.5.1
+pandas~=1.2.4
+numpy~=1.21.5
+tqdm~=4.64.1
+argparse~=1.4.0
+pyyaml~=6.0
+sklearn~=0.0.post1
+scikit-learn~=1.2.1
